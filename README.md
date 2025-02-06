@@ -2,7 +2,7 @@
 
 🎯 Apaixonado por tecnologia, inovação e soluções que impactam vidas. Sempre em busca de desafios e aprendizado!  
 
-📍 São Paulo | 🎓 Engenharia de Software | 🚀 Focado em desenvolvimento web e Python  
+📍 São Paulo | 🎓 Engenharia de Software | 🚀 Focado em Desenvolvimento Web e Python  
 
 <br/>
 
@@ -41,6 +41,7 @@
 </a>
 
 <br/>
+<br/>
 
 ## 🌍 Onde me encontrar?  
 
@@ -48,10 +49,13 @@
 
 <br/>
 
+
 ## ⚡ Curiosidades:
 
 🎼 **Ex-professor de música** | 🏎️ **Apaixonado por automobilismo**  
 
 <br/>
+
+---
 
 ⭐ **Se curtiu, deixe uma estrela nos meus projetos!** 🚀  
